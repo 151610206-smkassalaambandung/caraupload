@@ -1,0 +1,15 @@
+git
+git status
+git clone (link)(buat file di sublime)
+git status
+git add .
+git comit(samakan email dan nama)		comit(menyiapkan file yang akan di upload)
+esc+:wq
+git push
+
+
+
+composer create-project laravel/laravel nama --prefer-dist
+
+
+git pull(untuk upgrade data)
